@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <strong>Data Analyst | Machine Learning Explorer | Storyteller through Data</strong><br/>
+  <!-- <strong>Data Analyst | Machine Learning Explorer | Storyteller through Data</strong><br/> -->
   📍 Kolkata, India • 📧 <a href="mailto:saptarshidey2120@gmail.com">Email</a><br/>
   🌐 <a href="https://saptarshi123.netlify.app">Portfolio</a> • 
   <a href="https://github.com/Saptarshi2120">GitHub</a> • 
