@@ -2,6 +2,11 @@
 <h1 align="center">👋 Hey, I'm Saptarshi Dey</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=👩‍💻+Data+Analyst;🤖+Machine+Learning+Explorer;📊+Storyteller+through+Data" />
+</p>
+
+
+<p align="center">
   <strong>Data Analyst | Machine Learning Explorer | Storyteller through Data</strong><br/>
   📍 Kolkata, India • 📧 <a href="mailto:saptarshidey2120@gmail.com">Email</a><br/>
   🌐 <a href="https://saptarshi123.netlify.app">Portfolio</a> • 
