@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  📍 Kolkata, India &nbsp;|&nbsp;
-  📧 <a href="mailto:saptarshidey2120@gmail.com">Email</a> &nbsp;|&nbsp;
-  🌐 <a href="https://saptarshi123.netlify.app">Portfolio</a> &nbsp;|&nbsp;
-  💻 <a href="https://github.com/Saptarshi2120">GitHub</a> &nbsp;|&nbsp;
-  🔗 <a href="https://linkedin.com/in/saptarshi2120">LinkedIn</a>
+  <a href="mailto:saptarshidey2120@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/saptarshi2120"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://saptarshi123.netlify.app"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  <a href="https://github.com/Saptarshi2120"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
 
 ---
 
